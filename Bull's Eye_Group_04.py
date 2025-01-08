@@ -8,7 +8,7 @@ pygame.init()
 # Screen dimensions
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Archery Game")
+pygame.display.set_caption("Bull's Eye") 
 
 # Colors
 BLACK = (0, 0, 0)
